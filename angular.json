@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "@demo/lib": {
+    "demo-lib": {
       "projectType": "library",
       "root": "projects/demo/lib",
       "sourceRoot": "projects/demo/lib/src",
